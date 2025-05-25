@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Sider: Pasek boczny ChatGPT + GPT-4o, Claude 3 & Gemini AI"
+  },
+  "appDesc": {
+    "message": "Pasek boczny ChatGPT: Użyj ChatGPT, GPT-4o, Claude3, & Gemini do zaawansowanego wyszukiwania AI, czytania i pisania."
+  },
+  "appNameEdge": {
+    "message": "Sider: Pasek boczny ChatGPT"
+  },
+  "appDescEdge": {
+    "message": "Pasek boczny ChatGPT: Użyj ChatGPT, GPT-4o, Claude3, & Gemini do zaawansowanego wyszukiwania AI, czytania i pisania."
+  }
+}

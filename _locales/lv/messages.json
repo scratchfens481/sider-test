@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Sider: ChatGPT sānjosla + GPT-4o, Claude 3 & Gemini AI"
+  },
+  "appDesc": {
+    "message": "ChatGPT sānjosla: Izmantojiet ChatGPT, GPT-4o, Claude3, & Gemini uzlabotai AI meklēšanai, lasīšanai un rakstīšanai."
+  },
+  "appNameEdge": {
+    "message": "Sider: ChatGPT sānu josla"
+  },
+  "appDescEdge": {
+    "message": "ChatGPT sānjosla: Izmantojiet ChatGPT, GPT-4o, Claude3, & Gemini uzlabotai AI meklēšanai, lasīšanai un rakstīšanai."
+  }
+}
